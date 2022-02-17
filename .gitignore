@@ -1,0 +1,6 @@
+
+*.pdf
+*.csv
+*.xlsx
+.ipynb_checkpoints/playground-checkpoint.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
