@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import shutil
 
-fileExcludeList = ['playground.ipynb','example.xlsx','scriptLog.xlsx','renameAndCopy.py','main.py','logHelper.py','singeFileScript.py','__pycache__','relabelAndMoveSingle.py']
+fileExcludeList = ['playground.ipynb','example.xlsx','scriptLog.xlsx','renameAndCopy.py','main.py','logHelper.py','singeFileScript.py','__pycache__','relabelAndMoveSingle.py','relabelAndMove.exe']
 scriptLogFileName = 'scriptLog.xlsx'
 columnNames = ["FolderName","Location","OriginalFileName","PrefixIndex"]
 
